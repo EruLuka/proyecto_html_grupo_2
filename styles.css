@@ -12,17 +12,17 @@ p{font-size: 20px;}
 h1{font-size: 30px;}
 li{font-size: 18px;}
 
+html{
+    background: url(./resources/background.png) fixed;
+    background-size: cover;
+    font-family: "Michroma";
+    color: white;
+}
+
 button{
     background-color: #101010;
     font-family: "Michroma";
     font-size: 20px;
-    color: white;
-}
-
-body{
-    background: url(./resources/background.png) fixed;
-    background-size: cover;
-    font-family: "Michroma";
     color: white;
 }
 
