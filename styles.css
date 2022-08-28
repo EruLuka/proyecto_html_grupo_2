@@ -20,7 +20,8 @@ button{
 }
 
 body{
-    background: url(./resources/background.png);
+    background: url(./resources/background.png) fixed;
+    background-size: cover;
     font-family: "Michroma";
     color: white;
 }
