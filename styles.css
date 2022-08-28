@@ -14,6 +14,9 @@ li{font-size: 18px;}
 
 html{
     background: url(./resources/background.png) fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -moz-background-size: cover;
     background-size: cover;
     font-family: "Michroma";
     color: white;
