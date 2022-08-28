@@ -12,7 +12,7 @@ p{font-size: 20px;}
 h1{font-size: 30px;}
 li{font-size: 18px;}
 
-html, body{
+html{
     background: url(./resources/background.png) fixed;
     background-size: cover;
     -webkit-background-size: cover;
@@ -20,6 +20,11 @@ html, body{
     -moz-background-size: cover;
     font-family: "Michroma";
     color: white;
+}
+
+body{
+    background: url(./resources/background.png) fixed;
+    background-size: cover;
 }
 
 button{
