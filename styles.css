@@ -23,7 +23,7 @@ html{
 }
 
 body{
-    background: url(./resources/background.png) fixed;
+    background-color: transparent;
     background-size: cover;
 }
 
